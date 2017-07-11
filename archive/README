@@ -1,0 +1,10 @@
+omgwtfbbq.rule:
+This is a massive fule file collected from various sources designed for GPU
+burnin and a rule file of last resort
+
+expanded-cutb.rule:
+This is a rule file where a massive wordlist from various sources was fed
+into expander, cutb and then PACK was used to generate possible candidate
+rules comparing the output of expander/cutb and the original wordlist.
+This rule is not very efficient but it great as a rule of last resort on
+fast hashes.
