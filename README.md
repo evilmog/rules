@@ -3,7 +3,7 @@ This is EvilMog's misc rule file and debug data repo
 With generated2.rule being cited I thought it would be best
 to release some of the original technical data to the world
 
-There are also some GPU testign rules that are effective
+There are also some GPU testing rules that are effective
 against fast hashes.  They are not efficient but they are
 effective.  Please let me know if you like them and feel
 free to use these in derivative works, just make a PR to
