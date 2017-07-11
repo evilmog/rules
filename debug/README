@@ -1,0 +1,8 @@
+generated2.debug:
+debug data from the original generated2.rule project
+
+generated2.rule.occurance:
+rules by hitcount sorted for the generated2.rule project
+
+generated2.wordlist:
+wordlist sorted by corruance that created hits for generated2.rule
